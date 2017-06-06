@@ -2,3 +2,25 @@ ul {
   list-style: none;
   padding-left: 0px;
 }
+
+.output {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.content {
+  width: 50%;
+  margin-top: 20px;
+}
+
+.floated {
+   float:left;
+   margin-right:5px;
+}
+
+.btn {
+  cursor: pointer;
+  margin: 10px 10px 10px 0px;
+  width: 40%;
+  font-size: 1em;
+}
